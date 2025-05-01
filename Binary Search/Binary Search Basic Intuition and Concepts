@@ -4,3 +4,9 @@ Binary Search is efficiently used in SORTED ARRAY.
    Basic Concept
       To do Binary Search split the array like we need to take the middle value and move according towards the 
       search element.
+
+Lower Bound
+  Lower Bound is as a[index]>=x(some number)
+Upper Bound
+  Upper  Bound is as a[index]>x(some number)
+  

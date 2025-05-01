@@ -1,0 +1,6 @@
+Binary Search is the searching function which makes our search much easier.
+
+Binary Search is efficiently used in SORTED ARRAY.
+   Basic Concept
+      To do Binary Search split the array like we need to take the middle value and move according towards the 
+      search element.

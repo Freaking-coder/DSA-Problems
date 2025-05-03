@@ -19,6 +19,11 @@ Example 3:
 Input: nums = [], target = 0
 Output: [-1,-1]
 
+Intuition
+(even,odd)->Element is right half(X left)
+(odd,even)->Element is left half(X right)
+
+
 ####################################################################################
 class Solution {
 
